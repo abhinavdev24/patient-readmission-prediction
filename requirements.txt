@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+tqdm
+xgboost
+lightgbm
+catboost
+tensorflow
+matplotlib
+seaborn
+nltk
+gensim
